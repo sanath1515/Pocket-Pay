@@ -1,0 +1,34 @@
+{
+  "users": [],
+
+  "business": [],
+
+  "trading_address":[],
+
+  "currency":[
+    {
+        "currency_id":"c1",
+        "country":"United Kingdom",
+        "code" : "EUR",
+        "amount": 113.98
+    },
+    {
+        "currency_id":"c2",
+        "country":"Andorra",
+        "code" : "GBP",
+        "amount": 100
+    }
+  ],
+
+  "recipients": [],
+
+  "owners":[],
+
+  "Bank_options":[
+    {
+        "bank_name": "Lloyds"
+    }
+  ],
+  "transaction":[]
+
+}

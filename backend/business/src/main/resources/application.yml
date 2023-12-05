@@ -1,0 +1,13 @@
+server:
+  port: 9003
+
+spring:
+  application:
+    name: BUSINESS-SERVICE
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: localhost
